@@ -1,0 +1,10 @@
+# Use: pip install -r requirements_for_github.txt
+streamlit>=1.32.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.1.0
+openpyxl>=3.1.2
+pandas>=2.2.0
+selenium>=4.11.2
+webdriver-manager>=4.0.0
+xlsxwriter>=3.1.1
